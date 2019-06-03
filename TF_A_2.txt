@@ -1,1 +1,3 @@
 This test file A 2
+
+Modified in BranchC to merge back into master w/conflicts
