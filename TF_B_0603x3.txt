@@ -3,4 +3,6 @@ Add another file. Does it show up in remote branch.
 Now I have changed it locally (on D:) 2019.06.03 0927
 Changed again locally (on D:) 2019.06.03 1047
 
+And copied to x3 (while git bash not running -- should still catch)
+
 
