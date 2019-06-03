@@ -1,4 +1,8 @@
 This test file A 2
 
 Modified in BranchC to merge back into master w/conflicts
+<<<<<<< HEAD
 Now changed here in A via github editor
+=======
+Changed here again in BranchC on local
+>>>>>>> BranchC
