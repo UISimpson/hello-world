@@ -1,1 +1,4 @@
 Add another file. Does it show up in remote branch.
+
+Now I have changed it locally (on D:) 2019.06.03 0927
+
