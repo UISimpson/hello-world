@@ -1,5 +1,5 @@
 TF_C_0603.txt
 
 making new file in Windows, will need to add, commit, then see if whole BranchC pushes to github directory (orign/...)
-This is the Tuesday AM C-SIDE version!
+This is the Tuesday NOONish C-SIDE version!
 
