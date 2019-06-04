@@ -2,4 +2,8 @@ TF_C_0603.txt
 
 making new file in Windows, will need to add, commit, then see if whole BranchC pushes to github directory (orign/...)
 Afternoon mess it up!
+This is the Tuesday AM C-SIDE version!
+
+This is merged Tues AM (1042)
+
 
