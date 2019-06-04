@@ -5,10 +5,11 @@ This is the Tuesday AM C-SIDE version!
 This is the Tuesday NOONish C-SIDE version!
 Breaking this for Tuesday AM on the master
 OK, Tuesday 2019.06.04 at 1108 -- Version master; on githup; commit and pull to local
+This was merged Tues AM (1115)
 
-
-
-This is merged Tues AM (1115)
+Now messed with again -- this 
+Is the version from Master 
+No push this time!
 
 
 
