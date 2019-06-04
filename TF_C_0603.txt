@@ -3,3 +3,8 @@ TF_C_0603.txt
 making new file in Windows, will need to add, commit, then see if whole BranchC pushes to github directory (orign/...)
 This is the Tuesday NOONish C-SIDE version!
 
+This is the BranchC version at 1124
+Commit and push to github
+then merge on local to master
+and push diffs to github master
+then.... pull together on github
