@@ -13,3 +13,8 @@ No push this time!
 
 
 
+This is the BranchC version at 1124
+Commit and push to github
+then merge on local to master
+and push diffs to github master
+then.... pull together on github
